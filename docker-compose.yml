@@ -1,0 +1,30 @@
+
+services:
+  postgres:
+    image: postgres:16
+    container_name: karhutla-postgres
+    environment:
+      POSTGRES_USER: karhutla
+      POSTGRES_PASSWORD: karhutla123
+      POSTGRES_DB: karhutla_db
+    ports:
+      - "5433:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U karhutla -d karhutla_db"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  metabase:
+    image: metabase/metabase:latest
+    container_name: karhutla-metabase
+    ports:
+      - "3000:3000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+volumes:
+  postgres_data:
