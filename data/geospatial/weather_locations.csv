@@ -1,0 +1,151 @@
+province,point_number,latitude,longitude,timezone
+Aceh,1,3.906278,97.098986,Asia/Jakarta
+Aceh,2,5.565608,95.297573,Asia/Jakarta
+Aceh,3,2.246948,98.163457,Asia/Jakarta
+Aceh,4,2.637379,95.87075,Asia/Jakarta
+Aceh,5,5.272785,96.853338,Asia/Jakarta
+Aceh,6,4.394316,95.87075,Asia/Jakarta
+Aceh,7,4.394316,98.245339,Asia/Jakarta
+Aceh,8,2.051733,97.098986,Asia/Jakarta
+Aceh,9,3.320632,97.999692,Asia/Jakarta
+Aceh,10,4.979962,97.672162,Asia/Jakarta
+North Sumatra,1,2.263923,99.214374,Asia/Jakarta
+North Sumatra,2,-0.453084,98.45352,Asia/Jakarta
+North Sumatra,3,4.239927,98.115362,Asia/Jakarta
+North Sumatra,4,1.399421,97.269968,Asia/Jakarta
+North Sumatra,5,0.781919,100.144308,Asia/Jakarta
+North Sumatra,6,2.881424,98.030823,Asia/Jakarta
+North Sumatra,7,3.498925,99.129835,Asia/Jakarta
+North Sumatra,8,1.02892,98.960756,Asia/Jakarta
+North Sumatra,9,2.140422,100.313387,Asia/Jakarta
+North Sumatra,10,0.658419,97.861744,Asia/Jakarta
+West Sumatra,1,-0.749358,100.858066,Asia/Jakarta
+West Sumatra,2,-3.295521,100.446843,Asia/Jakarta
+West Sumatra,3,-1.173718,98.637462,Asia/Jakarta
+West Sumatra,4,0.841994,99.788886,Asia/Jakarta
+West Sumatra,5,-2.128529,101.269289,Asia/Jakarta
+West Sumatra,6,-2.128529,99.706642,Asia/Jakarta
+West Sumatra,7,-1.173718,101.845001,Asia/Jakarta
+West Sumatra,8,-0.324997,99.871131,Asia/Jakarta
+West Sumatra,9,0.311544,100.611332,Asia/Jakarta
+West Sumatra,10,-1.598079,100.693577,Asia/Jakarta
+Riau,1,0.763542,101.52215,Asia/Jakarta
+Riau,2,-0.339261,103.767007,Asia/Jakarta
+Riau,3,2.509646,100.306185,Asia/Jakarta
+Riau,4,-0.890663,102.083364,Asia/Jakarta
+Riau,5,1.039242,103.018721,Asia/Jakarta
+Riau,6,0.579741,100.212649,Asia/Jakarta
+Riau,7,2.050145,101.709221,Asia/Jakarta
+Riau,8,-0.339261,101.054471,Asia/Jakarta
+Riau,9,0.12024,102.457507,Asia/Jakarta
+Riau,10,1.498743,100.773864,Asia/Jakarta
+Riau Islands,1,3.887995,108.209991,Asia/Jakarta
+Riau Islands,2,-0.478813,104.39489,Asia/Jakarta
+Riau Islands,3,2.932756,105.715502,Asia/Jakarta
+Riau Islands,4,1.022277,103.367747,Asia/Jakarta
+Riau Islands,5,2.523367,109.090399,Asia/Jakarta
+Riau Islands,6,0.885814,104.688359,Asia/Jakarta
+Riau Islands,7,0.203501,104.541624,Asia/Jakarta
+Riau Islands,8,1.15874,104.10142,Asia/Jakarta
+Riau Islands,9,-0.205888,104.835094,Asia/Jakarta
+Riau Islands,10,0.612889,103.661216,Asia/Jakarta
+Jambi,1,-1.73304,102.511369,Asia/Jakarta
+Jambi,2,-1.024577,104.363115,Asia/Jakarta
+Jambi,3,-1.935457,101.164644,Asia/Jakarta
+Jambi,4,-0.771554,103.184731,Asia/Jakarta
+Jambi,5,-2.340293,103.437242,Asia/Jakarta
+Jambi,6,-2.745129,102.090517,Asia/Jakarta
+Jambi,7,-0.923368,101.922176,Asia/Jakarta
+Jambi,8,-1.530622,103.689753,Asia/Jakarta
+Jambi,9,-2.542711,102.76388,Asia/Jakarta
+Jambi,10,-2.087271,101.838006,Asia/Jakarta
+South Sumatra,1,-3.316161,104.332509,Asia/Jakarta
+South Sumatra,2,-2.740366,102.11384,Asia/Jakarta
+South Sumatra,3,-3.069391,106.046936,Asia/Jakarta
+South Sumatra,4,-1.671032,104.433358,Asia/Jakarta
+South Sumatra,5,-4.879033,104.029964,Asia/Jakarta
+South Sumatra,6,-3.974212,102.920629,Asia/Jakarta
+South Sumatra,7,-2.329083,103.324023,Asia/Jakarta
+South Sumatra,8,-4.138725,105.74439,Asia/Jakarta
+South Sumatra,9,-2.493596,105.139298,Asia/Jakarta
+South Sumatra,10,-4.220981,104.735904,Asia/Jakarta
+Bengkulu,1,-3.612409,102.483551,Asia/Jakarta
+Bengkulu,2,-5.473699,102.247598,Asia/Jakarta
+Bengkulu,3,-2.47945,101.06783,Asia/Jakarta
+Bengkulu,4,-4.745369,103.74197,Asia/Jakarta
+Bengkulu,5,-2.803153,102.011644,Asia/Jakarta
+Bengkulu,6,-4.421666,102.876807,Asia/Jakarta
+Bengkulu,7,-3.369633,101.854342,Asia/Jakarta
+Bengkulu,8,-2.965004,101.461086,Asia/Jakarta
+Bengkulu,9,-3.369633,102.955458,Asia/Jakarta
+Bengkulu,10,-4.34074,103.427365,Asia/Jakarta
+Lampung,1,-4.854519,105.13219,Asia/Jakarta
+Lampung,2,-4.915604,103.621823,Asia/Jakarta
+Lampung,3,-5.831873,105.771191,Asia/Jakarta
+Lampung,4,-5.892958,104.60937,Asia/Jakarta
+Lampung,5,-3.816081,105.422645,Asia/Jakarta
+Lampung,6,-4.365843,104.377006,Asia/Jakarta
+Lampung,7,-4.488012,105.887373,Asia/Jakarta
+Lampung,8,-5.159942,104.377006,Asia/Jakarta
+Lampung,9,-5.159942,105.829282,Asia/Jakarta
+Lampung,10,-5.52645,105.190281,Asia/Jakarta
+Bangka-Belitung Islands,1,-2.906341,107.866554,Asia/Jakarta
+Bangka-Belitung Islands,2,-1.95132,105.161694,Asia/Jakarta
+Bangka-Belitung Islands,3,-1.579923,108.906884,Asia/Jakarta
+Bangka-Belitung Islands,4,-2.906341,106.306058,Asia/Jakarta
+Bangka-Belitung Islands,5,-1.79215,106.097992,Asia/Jakarta
+Bangka-Belitung Islands,6,-2.42883,105.889926,Asia/Jakarta
+Bangka-Belitung Islands,7,-1.579923,105.577826,Asia/Jakarta
+Bangka-Belitung Islands,8,-3.012454,106.826223,Asia/Jakarta
+Bangka-Belitung Islands,9,-2.534944,106.618157,Asia/Jakarta
+Bangka-Belitung Islands,10,-2.004376,105.681859,Asia/Jakarta
+West Kalimantan,1,-0.416208,111.052509,Asia/Jakarta
+West Kalimantan,2,1.37695,114.136849,Asia/Jakarta
+West Kalimantan,3,1.889281,109.370141,Asia/Jakarta
+West Kalimantan,4,-2.849779,110.351522,Asia/Jakarta
+West Kalimantan,5,-0.416208,113.155468,Asia/Jakarta
+West Kalimantan,6,-0.160043,109.089747,Asia/Jakarta
+West Kalimantan,7,1.248867,112.174087,Asia/Jakarta
+West Kalimantan,8,0.736536,110.211325,Asia/Jakarta
+West Kalimantan,9,-1.44087,110.071128,Asia/Jakarta
+West Kalimantan,10,0.736536,113.155468,Asia/Jakarta
+Central Kalimantan,1,-1.428588,113.481974,Asia/Jakarta
+Central Kalimantan,2,-2.947414,110.795307,Asia/Jakarta
+Central Kalimantan,3,0.741164,114.889276,Asia/Jakarta
+Central Kalimantan,4,-1.3201,115.656896,Asia/Jakarta
+Central Kalimantan,5,-3.272877,114.37753,Asia/Jakarta
+Central Kalimantan,6,-1.103125,111.562926,Asia/Jakarta
+Central Kalimantan,7,-3.381365,112.586418,Asia/Jakarta
+Central Kalimantan,8,0.198726,113.354038,Asia/Jakarta
+Central Kalimantan,9,-0.560687,114.505467,Asia/Jakarta
+Central Kalimantan,10,-2.296489,111.946736,Asia/Jakarta
+South Kalimantan,1,-2.774565,115.537333,Asia/Makassar
+South Kalimantan,2,-4.104255,114.65656,Asia/Makassar
+South Kalimantan,3,-1.349897,115.740588,Asia/Makassar
+South Kalimantan,4,-4.009278,116.147099,Asia/Makassar
+South Kalimantan,5,-3.059499,114.521056,Asia/Makassar
+South Kalimantan,6,-2.394653,116.485858,Asia/Makassar
+South Kalimantan,7,-3.629366,115.401829,Asia/Makassar
+South Kalimantan,8,-2.014742,115.334078,Asia/Makassar
+South Kalimantan,9,-3.249454,116.214851,Asia/Makassar
+South Kalimantan,10,-2.584609,114.927567,Asia/Makassar
+East Kalimantan,1,0.031919,116.089659,Asia/Makassar
+East Kalimantan,2,1.037484,118.922918,Asia/Makassar
+East Kalimantan,3,2.420135,116.862366,Asia/Makassar
+East Kalimantan,4,-2.356298,116.476012,Asia/Makassar
+East Kalimantan,5,1.037484,113.900322,Asia/Makassar
+East Kalimantan,6,-0.84795,117.377504,Asia/Makassar
+East Kalimantan,7,0.911788,117.377504,Asia/Makassar
+East Kalimantan,8,1.41457,115.960874,Asia/Makassar
+East Kalimantan,9,-1.225037,115.83209,Asia/Makassar
+East Kalimantan,10,0.28331,114.930598,Asia/Makassar
+North Kalimantan,1,2.684654,116.411704,Asia/Makassar
+North Kalimantan,2,1.423798,114.607087,Asia/Makassar
+North Kalimantan,3,4.113623,117.872584,Asia/Makassar
+North Kalimantan,4,4.365794,115.896099,Asia/Makassar
+North Kalimantan,5,2.432482,117.958518,Asia/Makassar
+North Kalimantan,6,2.684654,115.122692,Asia/Makassar
+North Kalimantan,7,1.507855,115.896099,Asia/Makassar
+North Kalimantan,8,3.693338,116.841375,Asia/Makassar
+North Kalimantan,9,3.441167,115.724231,Asia/Makassar
+North Kalimantan,10,3.273053,117.614782,Asia/Makassar

@@ -1,0 +1,7 @@
+requests
+pandas
+python-dotenv
+psycopg[binary]
+geopandas
+shapely
+lxml
